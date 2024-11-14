@@ -1,6 +1,33 @@
-| **Biometric Method** | **Advantages**                                                         | **Disadvantages**                                                  |
-|----------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
-| **Fingerprint**      | High accuracy, fast authentication, widely used                       | Susceptible to spoofing, privacy concerns                          |
-| **Handprint**        | Easy to use, suitable for high-traffic areas                          | Risk of false positives/negatives, can be affected by hand injuries|
-| **Iris Scan**        | Very high accuracy, difficult to spoof                                | Higher cost, requires users to be close to the scanner             |
-| **Face Recognition** | Contactless, quick, often integrates with existing surveillance       | Difficulties in poor lighting or certain angles                    |
+# Tech Tribe Access Control Matrix
+
+| **Job Title**                   | **File Access** | **Software Development** | **Financial Data Entry** | **System Configuration** | **Client Data Access** | **Consulting Services** | **Payment Authorization** |
+|---------------------------------|-----------------|--------------------------|--------------------------|--------------------------|-------------------------|--------------------------|---------------------------|
+| **CEO**                         | ✔️              | ✔️                       | ✔️                       | ✔️                       | ✔️                      | ✔️                       | ✔️                        |
+| **CFO**                         | ✔️              | ✔️                       | ✔️                       | ✔️                       | ✔️                      | ✔️                       | ✔️                        |
+| **IT Director**                 | ✔️              | ❌                       | ❌                       | ✔️                       | ✔️                      | ✔️                       | ❌                        |
+| **Consulting Manager**          | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ✔️                       | ❌                        |
+| **Project Manager**             | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ✔️                       | ❌                        |
+| **Lead Developer**              | ✔️              | ✔️                       | ❌                       | ✔️                       | ❌                      | ❌                       | ❌                        |
+| **Software Developer**          | ❌              | ✔️                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **QA Engineer**                 | ❌              | ✔️                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Technical Consultant**        | ✔️              | ❌                       | ❌                       | ✔️                       | ✔️                      | ✔️                       | ❌                        |
+| **Cybersecurity Specialist**    | ✔️              | ❌                       | ❌                       | ✔️                       | ✔️                      | ✔️                       | ❌                        |
+| **Software Engineer**           | ❌              | ✔️                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Data Analyst**                | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ❌                       | ❌                        |
+| **Cloud Architect**             | ✔️              | ❌                       | ❌                       | ✔️                       | ❌                      | ✔️                       | ❌                        |
+| **UX Designer**                 | ✔️              | ✔️                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Business Analyst**            | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ✔️                       | ❌                        |
+| **Sales and Account Manager**   | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ✔️                       | ❌                        |
+| **Training and Support Specialist** | ✔️         | ❌                       | ❌                       | ❌                       | ✔️                      | ✔️                       | ❌                        |
+| **IT Administrator**            | ✔️              | ❌                       | ❌                       | ✔️                       | ✔️                      | ❌                       | ❌                        |
+| **IT Infrastructure Specialist** | ✔️             | ❌                       | ❌                       | ✔️                       | ❌                      | ✔️                       | ❌                        |
+| **HR Manager**                  | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ❌                       | ❌                        |
+| **HR Assistant**                | ✔️              | ❌                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Finance Specialist**          | ❌              | ❌                       | ✔️                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Accountant**                  | ✔️              | ❌                       | ✔️                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Payment Officer**             | ❌              | ❌                       | ❌                       | ❌                       | ❌                      | ❌                       | ✔️                        |
+| **Customer Support**            | ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ❌                       | ❌                        |
+| **Tech Support Specialist**     | ✔️              | ❌                       | ❌                       | ✔️                       | ✔️                      | ❌                       | ❌                        |
+| **Legal and Compliance Advisor**| ✔️              | ❌                       | ❌                       | ❌                       | ✔️                      | ❌                       | ❌                        |
+| **Marketing and Content Specialist** | ✔️        | ❌                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
+| **Administrative Support**      | ✔️              | ❌                       | ❌                       | ❌                       | ❌                      | ❌                       | ❌                        |
